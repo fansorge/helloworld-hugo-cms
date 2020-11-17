@@ -1,11 +1,11 @@
 ---
 title: Kontakt
-logo: img/leafboard-logo2-var3-300x45.png
+logo: img/leafboard-logo2-var2-300x45.png
 contact_entries:
   - heading: Location
-    text: Berlin / Köln, Germany
-  - heading: Working hours
-    text: "Monday – Friday: 9AM – 6PM We’re closed on weekends"
+    text: Berlin / Köln
+  - heading: Wir sind erreichbar...
+    text: "Montag bis Freitag, 9 Uhr bis 17 Uhr"
 ---
 
 We’d love to get in touch with you and hear your ideas and
