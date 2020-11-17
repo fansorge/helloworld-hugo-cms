@@ -1,5 +1,5 @@
 ---
-title: LEAFBOARD elektrische Skateboards
+title: leafboard elektrische Skateboards
 subtitle: Besonders große Reichweite, einfach zu fahren, kompakt für überall
 image: img/leafboards-bg.webp
 blurb:
