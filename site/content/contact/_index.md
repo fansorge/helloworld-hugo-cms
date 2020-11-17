@@ -1,9 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Kontact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "Berlin / Köln, Germany"
+    text: Berlin / Köln, Germany
   - heading: Working hours
     text: "Monday – Friday: 9AM – 6PM We’re closed on weekends"
 ---
