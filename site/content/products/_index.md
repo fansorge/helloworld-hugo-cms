@@ -3,7 +3,7 @@ title: Das Leafboard Plus
 heading: What we offer
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/leafboard-grip_listF_2000x.webp
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -23,7 +23,7 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+    - image: img/leafboard-e-inside-the-box_480x480.webp
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
@@ -45,13 +45,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/leafboard-e-remote_480x480.webp
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/leafboard-e-slope-20-percent_1024x1024.webp
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/leafboard-e-rear-light_480x480.webp
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
