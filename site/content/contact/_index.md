@@ -1,5 +1,5 @@
 ---
-title: Kontact
+title: Kontakt
 logo: /img/logo.svg
 contact_entries:
   - heading: Location
