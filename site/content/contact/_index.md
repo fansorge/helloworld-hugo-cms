@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: /img/logo.svg
+logo: img/leafboard-logo2-var3-300x45.png
 contact_entries:
   - heading: Location
     text: Berlin / Köln, Germany
