@@ -1,6 +1,6 @@
 ---
-title: Das Leafboard Plus
-subtitle: e-Skateboard mit besonders großer Reichweite, einfach zu fahren,
+title: Leafboard
+subtitle: e-Skateboards mit besonders großer Reichweite, einfach zu fahren,
   kompakt für überall
 image: img/leafboards-bg.webp
 blurb:
@@ -10,7 +10,7 @@ blurb:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 intro:
-  heading: Unser Angebot
+  heading: Das Leafboard Plus
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
