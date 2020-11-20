@@ -2,7 +2,7 @@
 title: Technische Spezifikation
 image: img/leafboard-logo2-large-var1.png
 values:
-  - heading: Shade-grown coffee
+  - heading: Modular aufgebaut - Akku voll integriert
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
@@ -30,11 +30,4 @@ values:
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
     imageUrl: img/leafboard-e-boardside_80F_2000x.webp
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
 ---
