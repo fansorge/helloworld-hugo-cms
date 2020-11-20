@@ -1,6 +1,7 @@
 ---
-title: leafboard elektrische Skateboards
-subtitle: Besonders große Reichweite, einfach zu fahren, kompakt für überall
+title: Das Leafboard Plus
+subtitle: e-Skateboard mit besonders großer Reichweite, einfach zu fahren,
+  kompakt für überall
 image: img/leafboards-bg.webp
 blurb:
   heading: Warum Leafboard?
